@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-simonov, 1C platform Senior Developer
 - 👀 I’m interested in backend integration technologies
-- 🌱 I’m currently learning Salesforce platform and the JAVA programming language
+- 🌱 I’m currently learning JAVA programming language
 - 💞️ I’m looking to collaborate on creating effective integration mechanicals
 - 📫 How to reach me: t.me/i_simonov, simonov88.ivan@gmail.com
 
