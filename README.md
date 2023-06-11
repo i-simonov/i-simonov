@@ -6,7 +6,7 @@ Hello, my name is Ivan Simonov. For almost two decades, I have been involved in 
 
 ## Integration Experience
 
-In the past year, I have become deeply interested in software product integration. My development and support experience includes the following integration patterns, implemented on the ERP monolithic application side in 1C-Enterprise:
+In the past year, I have become deeply interested in software product integration. My development and support experience includes the following integration patterns, implemented on the ERP monolithic application side:
 
 - Transactional Outbox
 - Document Message
@@ -28,26 +28,6 @@ I have experience implementing REST API connectors for popular web engines, such
 - OpenCart
 - WordPress WooCommerce API
 - avito.ru service
-
-## SQL Expertise
-
-I am highly proficient in writing complex SQL queries.
-
-## Transition to Java-Based Integration Developer
-
-Currently, I feel constrained by the narrow focus and high-level stack of the ERP platform (in my case, 1C 8.x Enterprise Platform). I have decided to switch my core programming language to Java while remaining in the application integration development sphere, aiming to become a professional Java-based integration developer.
-
-## Technologies in Progress
-
-At the moment, I am studying the following technologies:
-
-- Java Core
-- Spring Boot 3
-- Apache Camel
-- Kafka
-- Transactional Messaging
-- Microservice Architecture
-
 
 ## Contacts
 📫 How to reach me: t.me/i_simonov, simonov88.ivan@gmail.com
